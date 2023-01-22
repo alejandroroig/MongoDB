@@ -2,7 +2,7 @@ package org.example.entities;
 
 import java.util.List;
 
-public class Pelicula {
+public class Movie {
     String plot;
     List<String> genres;
     String title;
@@ -26,6 +26,6 @@ public class Pelicula {
     }
     @Override
     public String toString() {
-        return "Película [\n  argumento=" + plot + ",\n  géneros=" + genres + ",\n  título=" + title + "\n]";
+        return "Movie [\n  plot=" + plot + ",\n  genres=" + genres + ",\n  title=" + title + "\n]";
     }
 }
