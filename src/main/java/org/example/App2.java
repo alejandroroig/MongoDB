@@ -78,8 +78,7 @@ public class App2
             }
 
             System.out.println("\nPelis de comedia y acción de 2015 o posteriores");
-            // for(Movie2 cursorPeli : collection.find(and(and(in("genres", "Comedy"), in("genres", "Action")), gte("year", 2015))).sort(orden).limit(5)) {
-
+            // for(Movie2 cursorPeli : collection.find(and(in("genres", "Comedy"), in("genres", "Action"), gte("year", 2015))).sort(orden).limit(5)) {
             Bson filtroGeneros = and(in("genres", "Comedy"), in("genres", "Action"));
             Bson filtroAnyo = gte("year", 2015);
             Bson orden = Sorts.descending("runtime");
