@@ -2,7 +2,7 @@ package org.example.entities;
 
 import java.util.List;
 
-public class Movie {
+public class Movie1 {
     String plot;
     List<String> genres;
     String title;
