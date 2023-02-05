@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="015bc112-e991-4ec4-bf27-4e867d827f6f" name="Changes" comment="MongoDB v2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Direccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="015bc112-e991-4ec4-bf27-4e867d827f6f" name="Changes" comment="MongoDB v3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +68,7 @@
       <workItem from="1675072276634" duration="994000" />
       <workItem from="1675073367102" duration="4660000" />
       <workItem from="1675082777022" duration="86000" />
-      <workItem from="1675620959895" duration="3074000" />
+      <workItem from="1675620959895" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="MongoDB v1">
       <created>1674429073287</created>
@@ -91,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675078876382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MongoDB v3">
+      <created>1675624157860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675624157860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MongoDB v1" />
     <MESSAGE value="MongoDB v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="MongoDB v2" />
+    <MESSAGE value="MongoDB v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="MongoDB v3" />
   </component>
 </project>
